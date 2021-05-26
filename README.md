@@ -3,6 +3,10 @@
 
 [![invinciblevenom github stats](https://github-readme-stats.vercel.app/api?username=invinciblevenom&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/invinciblevenom)
 
+## How's life
+- 💻 Currently inactive.
+- 📖 Struggling with medicine books
+
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invinciblevenom&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/invinciblevenom)
 
