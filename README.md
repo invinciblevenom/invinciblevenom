@@ -9,6 +9,3 @@
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=invinciblevenom&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/invinciblevenom)
-
-## How to reach me
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/invinciblevenom)
