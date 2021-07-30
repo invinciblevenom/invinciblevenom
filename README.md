@@ -3,7 +3,7 @@
 
 ## How's life
 - 💻 Currently inactive.
-- 📖 Struggling with engineering books.
+- 📖 Busy with engineering books.
 
 <hr />
 
