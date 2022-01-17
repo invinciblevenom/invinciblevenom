@@ -1,6 +1,8 @@
 <h1 align="center"> Hello there 👋, I'm Ansh Singh.</h1>
 <h3 align="center">Full Time Engineering Student, Part Time Developer</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=invinciblevenom&label=Profile%20Views&color=0e75b6&style=flat" alt="invinciblevenom" /> </p>
+
 ## How's life
 - 💻 Seldomly active.
 - 📖 Busy with engineering books.
