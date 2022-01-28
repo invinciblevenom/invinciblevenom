@@ -8,5 +8,5 @@
 <hr />
 
 ## GitHub Statistics
-![](https://github.com/invinciblevenom/readme_tests/blob/master/generated/overview.svg)
-![](https://github.com/invinciblevenom/readme_tests/blob/master/generated/languages.svg)
+![](https://github.com/invinciblevenom/github-tests/blob/master/generated/overview.svg)
+![](https://github.com/invinciblevenom/github-tests/blob/master/generated/languages.svg)
