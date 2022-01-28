@@ -8,5 +8,7 @@
 <hr />
 
 ## GitHub Statistics
-![](https://github.com/invinciblevenom/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/invinciblevenom/github-stats/blob/master/generated/languages.svg)
+ <div>
+    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=invinciblevenom&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=github_dark" />
+    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invinciblevenom&hide=html&hide_title=true&layout=compact&langs_count=8&line_height=25&theme=github_dark&card_width=400" />
+  </div>
