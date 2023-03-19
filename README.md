@@ -4,6 +4,6 @@
 
 ## GitHub Statistics
  <div>
-    <img height="140px" src="https://github-readme-stats.vercel.app/api?username=invinciblevenom&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=25&theme=github_dark" />
-    <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=invinciblevenom&hide=html&hide_title=true&layout=compact&langs_count=8&line_height=25&theme=github_dark&card_width=400" />
-  </div>
+ ![](https://raw.githubusercontent.com/invinciblevenom/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+ ![](https://raw.githubusercontent.com/invinciblevenom/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+ </div>
