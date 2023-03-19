@@ -1,6 +1,6 @@
 <h1 align="center"> Hello there 👋, I'm Ansh Singh.</h1>
 
-<h4 align="center"> New account here, old account has been scheduled for deletion. Migrating data right now. </h4>
+<h3 align="center"> New account here, old account has been scheduled for deletion. Migrating data right now. </h3>
 
 ## GitHub Statistics
  <div>
