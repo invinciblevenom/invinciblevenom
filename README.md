@@ -22,8 +22,8 @@
 
 ## ⚡ GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=invinciblevenom&show_icons=true&theme=dark" width="400">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invinciblevenom&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" height="168px" width="500px">
+  <img src="https://github-readme-stats.vercel.app/api?username=invinciblevenom&show_icons=true&theme=dark" height="168px width="350px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=invinciblevenom&langs_count=8&show_icons=true&locale=en&layout=compact&theme=dark" height="168px" width="350px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=invinciblevenom&theme=dark&hide_border=true" width="400">
   <img src="https://github-profile-trophy.vercel.app/?username=invinciblevenom&theme=onedark">
 </p>
