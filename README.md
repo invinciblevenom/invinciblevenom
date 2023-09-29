@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there 👋, I'm Ansh Singh</h1>
+## Hello there 👋, I'm Ansh Singh
 
 ## 🌟 About Me
 - 🔭 I’m currently a Final Year Student
