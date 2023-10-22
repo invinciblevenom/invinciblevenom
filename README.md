@@ -3,23 +3,29 @@
 ## 🌟 About Me
 - 🔭 I’m currently a Final Year Mechanical Engineering student with Specialisation in Manufacturing Automation.
 - 🌱 I’m working on Python for Data Science and Analytics. 🐍
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 💬 Ask me about Python, Data Science, AndroidOS and Technology
+- 👯 I’m looking to collaborate on open source/commercial projects.
+- 💬 Ask me about Python, Data Science and Analytics.
 - 📫 How to reach me: [![GitHub](https://img.shields.io/github/followers/invinciblevenom?label=follow&style=social)](https://github.com/invinciblevenom) [![Linkedin Badge](https://img.shields.io/badge/-anshsingh1410-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshsingh1410/)](https://www.linkedin.com/in/anshsingh1410/) [![Gmail Badge](https://img.shields.io/badge/-anshsingh.14.lko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshsingh.14.lko@gmail.com)](mailto:anshsingh.14.lko@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-@invinciblevenom-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/invinciblevenom "Contact on Telegram")
 
 ## 🚀💻 Technologies & Tools
 
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=jetbrains)
-  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 
-  ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+  ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
+  ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+  ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)
 
-  ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
-  ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+  ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)
+  ![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=flat)
+
+  ![Windows 11 Badge](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff&style=flat)
+  ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
+  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+
 
 ## ⚡ GitHub Stats
 <p align="center">
