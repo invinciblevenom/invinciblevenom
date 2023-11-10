@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/invinciblevenom/invinciblevenom/main/header.png"> </div>
+## Hello there 👋, I'm Ansh Singh
 
 ## 🌟 About Me
 - 🔭 I’m currently a Final Year Mechanical Engineering student with Specialisation in Manufacturing Automation.
