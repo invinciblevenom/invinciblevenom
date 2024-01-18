@@ -2,9 +2,9 @@
 
 ## 🌟 About Me
 - 🔭 I’m currently a Final Year Mechanical Engineering student with Specialisation in Manufacturing Automation.
-- 🌱 I’m working on Python for Data Science and Analytics. 🐍
+- 🌱 I’m working on Python. 🐍
 - 👯 I’m looking to collaborate on open source/commercial projects.
-- 💬 Ask me about Python, Data Science and Analytics.
+- 💬 Ask me about Python, Data Engineering and Analytics.
 - 📫 How to reach me: [![GitHub](https://img.shields.io/github/followers/invinciblevenom?label=follow&style=social)](https://github.com/invinciblevenom) [![Linkedin Badge](https://img.shields.io/badge/-anshsingh1410-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshsingh1410/)](https://www.linkedin.com/in/anshsingh1410/) [![Gmail Badge](https://img.shields.io/badge/-anshsingh.14.lko@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshsingh.14.lko@gmail.com)](mailto:anshsingh.14.lko@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-@invinciblevenom-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/invinciblevenom "Contact on Telegram")
 
 ## 🚀💻 Technologies & Tools
@@ -15,8 +15,10 @@
 
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-  ![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ%20IDEA-000?logo=intellijidea&logoColor=fff&style=flat)
+  ![IntelliJ PyCharm Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=fff&style=flat)
   ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=flat)
+	![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff&style=flat)
+
   ![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat)
 
   ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=flat)
@@ -35,6 +37,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=invinciblevenom&theme=onestar">
 </p>
 
-##  Profile Views
+## 🌐 Profile Views
 <p> <img src="https://komarev.com/ghpvc/?username=invinciblevenom&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
