@@ -1,7 +1,7 @@
 ## Hello there 👋, I'm Ansh Singh
 
 ## 🌟 About Me
-- 🔭 I’m currently a Final Year Mechanical Engineering student with Specialisation in Manufacturing Automation.
+- 🔭 I’m currently a Final Year University student.
 - 🌱 I’m working on Python. 🐍
 - 👯 I’m looking to collaborate on open source/commercial projects.
 - 💬 Ask me about Python, Data Engineering and Analytics.
