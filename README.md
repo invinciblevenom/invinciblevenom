@@ -72,15 +72,6 @@
   </tr>
 </table>
 
-## ⚡ GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=invinciblevenom&include_all_commits=true&show_icons=true&theme=dark" height="168px width="350px">
-  <img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=invinciblevenom&langs_count=8&show_icons=true&layout=compact&theme=dark" height="168px" width="350px">
-  <!img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=invinciblevenom&theme=dark&hide_border=true" width="400">
-
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=invinciblevenom&theme=discord&title=MultiLanguage,Repositories,Stars,Commits,Issues,PullRequest,Followers">
-</p>
-
 ## 🌐 Profile Views
 <p> <img src="https://komarev.com/ghpvc/?username=invinciblevenom&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
